@@ -9,3 +9,16 @@
 	flex-wrap: wrap;
 	justify-content: center;
 }
+.lmj-plant-list > div {
+	margin: 15px;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 4px 4px 10px 3px gainsboro;
+}
+.btn {
+	color: #fff;
+	background-color: #31b572;
+	padding: 10px 15px;
+	border-radius: 15px;
+	border: none;
+}
