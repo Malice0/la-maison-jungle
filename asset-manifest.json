@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2616ac0.css",
-    "main.js": "/static/js/main.07f0fd59.js",
+    "main.css": "/static/css/main.2b4a014a.css",
+    "main.js": "/static/js/main.dab47d28.js",
     "static/media/olivier.jpg": "/static/media/olivier.b2908b40d9fb7f86626b.jpg",
     "static/media/monstera.jpg": "/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
     "static/media/basil.jpg": "/static/media/basil.be00474e950eb5af0054.jpg",
@@ -11,14 +11,14 @@
     "static/media/mint.jpg": "/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
     "static/media/calathea.jpg": "/static/media/calathea.455c33e2bd3e5509c907.jpg",
     "static/media/succulent.jpg": "/static/media/succulent.f4329849930298a9e46b.jpg",
-    "static/media/sun.svg": "/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
-    "static/media/water.svg": "/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "static/media/sun.svg": "/static/media/sun.0922d8139b642363c45edcd658e28aa0.svg",
+    "static/media/water.svg": "/static/media/water.b7abd8058455acf5f8680f798b8f3ccb.svg",
     "index.html": "/index.html",
-    "main.b2616ac0.css.map": "/static/css/main.b2616ac0.css.map",
-    "main.07f0fd59.js.map": "/static/js/main.07f0fd59.js.map"
+    "main.2b4a014a.css.map": "/static/css/main.2b4a014a.css.map",
+    "main.dab47d28.js.map": "/static/js/main.dab47d28.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2616ac0.css",
-    "static/js/main.07f0fd59.js"
+    "static/css/main.2b4a014a.css",
+    "static/js/main.dab47d28.js"
   ]
 }
