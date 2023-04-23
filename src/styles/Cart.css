@@ -6,6 +6,7 @@
 	flex-direction: column;
 	justify-content: flex-start;
 	width: 200px;
+	transition: padding .3s ease-in-out;
 }
 
 .lmj-cart-add-button {
@@ -28,8 +29,10 @@
 }
 
 .lmj-cart-closed {
-	padding: 32px;
+	padding: 32px 0px 0px 32px;
 	width: 200px;
+	position: absolute;
+	transition: padding .3s ease-in-out;
 }
 
 .btn-cart {
@@ -40,4 +43,24 @@
 	border: none;
 	font-size: large;
 	margin-top: 20px;
+	cursor: pointer;
+}
+
+@media all and (max-width: 680px) {
+	.lmj-cart-toggle-button {
+		font-size: medium;
+	}
+
+	.lmj-cart-closed {
+		padding: 30px 10px;
+	}
+
+}
+
+@media all and (max-width: 680px) {
+	.lmj-cart-closed {
+		flex-wrap: wrap;
+		width: 50px;
+	}
+
 }
